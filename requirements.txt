@@ -1,0 +1,10 @@
+streamlit
+pandas
+regex
+beautifulsoup4 
+requests
+PyPDF2
+pypdf
+langchain
+unstructured
+pdf2image
